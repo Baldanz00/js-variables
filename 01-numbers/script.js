@@ -28,4 +28,3 @@ console.log(8 + 16 + 32); // Output: 56
 // 6. Imposta questa variabile come somma di numOne, numTwo, numThree diviso numOne
 const numBytes = NaN;
 console.log(8 + 16 + 32 / 8); // Output: 7
- /
