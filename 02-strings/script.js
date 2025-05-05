@@ -9,7 +9,7 @@ console.log (name);
 // Stampa tutti i valori nella console.
 const number = 24;
 const text = "Ciao a tutti";
-const bool ="true";
+const bool = true;
 console.log (number, text, bool);
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
